@@ -1,0 +1,6 @@
+org\joseaguilar\wetapp\util\JPAUtil.class
+Main.class
+org\joseaguilar\webapp\service\ProductoService.class
+org\joseaguilar\webapp\servlet\ProductoServlet.class
+org\joseaguilar\webapp\service\IProductoService.class
+org\joseaguilar\webapp\model\Producto.class
